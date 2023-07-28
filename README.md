@@ -1,5 +1,3 @@
-# Vida-na-agua
-atividade Projeto ElasNaTech
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -12,6 +10,7 @@ atividade Projeto ElasNaTech
 </head>
 
 <body>
+  <img src="pexels-tabitha-mort-710906.jpg" alt"paisagem de rio"
 <header class="header">
 <nav class="header__nav">
   <ul>
