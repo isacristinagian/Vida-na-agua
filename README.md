@@ -49,13 +49,11 @@
   <p>Apesar de cobrir menos de 1% da superfície da Terra, os ecossistemas de água doce abrigam mais de 10% de todas as espécies conhecidas.</p> 
   <p>No entanto, mais de 80% de suas populações de vertebrados foram perdidas devido às ações humanas.</p>
   <p>Essas perdas são duas vezes maiores do que as perdas sofridas em ecossistemas terrestres, que acabam mesmo assim recebendo mais atenção das ações de conservação.</p>
- 
-    <img src="Boto.png" alt="imagem boto rosa Amazônia">
-  
+   
 <a href="https://www.esalq.usp.br/banco-de-noticias/conserva%C3%A7%C3%A3o-integrada-pode-ampliar-prote%C3%A7%C3%A3o-de-esp%C3%A9cies-de-%C3%A1gua-doce-em-at%C3%A9-600" class="btn">Saiba Mais</a>
   
   </article>
-
+<img src="Boto.png" alt="imagem boto rosa amazônia">
   <article>
     <header>
     <h2>ecossistemas-aquáticos no Brasil</h2>
