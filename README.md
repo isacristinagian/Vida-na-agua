@@ -5,8 +5,121 @@
   <meta charset="UTF-8">
   <meta name="author" Isabel Cristina
   <title><center>Projeto Vida na Água</center>
+<style>
+body {
+  background-color: #689b98 ;
+  color: #2a14ee;
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration: none;
+  border: .3px solid hsl(177, 70%, 41%);
+}
+.header{
+  background-image: url(pexels-tabitha-mort-710906.jpg);
+  height: 500px;
+  background-size: cover;
+  background-position: right center;
+  padding-top: 2%;
+  text-decoration: none;
+}
 
-<link rel="stylesheet" href="Style.css"
+.header__nav ul{
+  margin: 50px 20px 0 0;
+  text-align: right;
+}
+
+.header__nav li{
+display:inline-block;
+list-style-type: none;
+font-size: 10px;
+gap: 1px;
+margin-left: 9px;
+text-align: right;
+}
+
+.header__nav a{
+padding: 3px;
+display: block;
+color: hwb(0 100% 0%);
+text-decoration: none;
+text-transform: uppercase;
+font-size: 20px;
+letter-spacing: 3px;
+}
+
+.header__nav a:hover{
+background-color: hsl(0, 0%, 0%);
+
+}
+.cabecalho-content{
+margin: 50 px auto;
+width: 80%;
+text-align: center;
+}
+
+.cabecalho-content h1{
+font-size: 40px;
+text-transform: uppercase;
+text-align: center;
+}
+
+.cabecalho-content h2{
+color: hsl(208, 100%, 97%);
+text-align: center;
+}
+.cabecalho-content p{
+  color:#000000;
+  font-size: 10px;
+  display: list-item;
+  padding: 16px;
+  border-bottom: 3px solid;
+
+}
+
+main{
+width: 90%;
+margin: auto;
+min-width: 400px;
+max-width: 800px;
+}
+
+section{
+  padding-top:30px;
+}
+
+article{
+padding: 16px; 
+margin-bottom: 30px;
+margin-top: 30px;
+text-align: justify;
+}
+
+article h2{
+border-bottom: 3px solid hsl(180, 100%, 94%);
+background-color: hsl(160, 100%, 75%);
+padding: 10px; 
+margin-top: 0;
+}
+
+a.btn{
+background-color: hsl(0, 0%, 100%);
+display: block;
+padding: 10px 12px;
+border-radius: 5px;
+margin-left: auto;
+width: fit-content;
+
+}
+
+footer{
+  cursor: pointer;
+}
+
+  
+</style>
 </head>
 
 <body>
