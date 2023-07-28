@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="author" Isabel Cristina
-  <title><center>Projeto Vida na Água</center></title>
+  <title><center>Projeto Vida na Água</center>
 
 <link rel="stylesheet" href="Style.css"
 </head>
