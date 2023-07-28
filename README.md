@@ -20,8 +20,8 @@
 </nav>
 
 <div class="cabecalho-content"> 
-  <h1>a vida na água : conhecer para preservar</h1>
-    <h2>cidadania e conscientização ambiental</h2>
+  <h1>A vida na Agua : conhecer para preservar</h1>
+    <h2>Cidadania e conscientização ambiental</h2>
 </div>
 <br>
 </header>
