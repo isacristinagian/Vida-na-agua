@@ -109,3 +109,17 @@ width: fit-content;
 footer{
   cursor: pointer;
 }
+
+
+textarea{
+  border-bottom: 2rem;
+  color:green;
+}
+
+table {
+  display: table;
+  border-collapse:separate; 
+  border-spacing: 2px;
+  border-color: gray;
+  padding-top: 1px;
+}
