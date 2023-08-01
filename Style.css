@@ -152,7 +152,7 @@ input, textarea{
     padding: .65em;
     margin: .5em 0 2.5em ;
     color: #ffffff;
-    outline:0;
+    outline:.3em;
 }
 input :focus, textarea focus{
 background-color: #ffffff;
@@ -171,5 +171,5 @@ background-color: hsl(0, 4%, 16%);
 color: black;
 cursor: pointer;
 font-size: .7em;
-border: none;
+border: radius;
 }
