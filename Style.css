@@ -89,6 +89,13 @@ margin-top: 30px;
 text-align: justify;
 }
 
+article img{
+border-radius: 2px;
+border-color: #012523;
+max-width: 50%;
+max-height:50% 
+}
+
 article h2{
 border-bottom: 3px solid hsl(180, 100%, 94%);
 background-color: hsl(160, 100%, 75%);
