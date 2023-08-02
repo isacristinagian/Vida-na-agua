@@ -107,6 +107,13 @@ width: fit-content;
 
 }
 
+.table{
+color: #000000;
+display:grid ;
+padding: 1px 2px;
+outline: #012523; 
+}
+
 footer{
   cursor: pointer;
 }
@@ -114,13 +121,6 @@ footer{
 textarea{
   border-bottom: 2rem;
   color:green;
-}
-
-.table{
-color: #000000;
-display:grid ;
-padding: 1px 2px;
-outline: #012523; 
 }
 
 form{
