@@ -2,7 +2,7 @@ body {
   background-color: #689b98 ;
   color: #2a14ee;
   width: 90%;
-  max-width: 960px;
+  max-width: 60rem;
   margin: 0 auto;
   text-transform: uppercase;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -11,7 +11,7 @@ body {
 }
 .header{
   background-image: url(pexels-pixabay-158063.png);
-  height: 500px;
+  height: 31.25rem;
   background-size: cover;
   background-position: right center;
   padding-top: 2%;
@@ -19,27 +19,27 @@ body {
 }
 
 .header__nav ul{
-  margin: 50px 20px 0 0;
+  margin: 3.125rem 1.25rem 0 0;
   text-align: right;
 }
 
 .header__nav li{
 display:inline-block;
 list-style-type: none;
-font-size: 10px;
+font-size: .6 rem;
 gap: 1px;
-margin-left: 9px;
+margin-left: .5rem;
 text-align: right;
 }
 
 .header__nav a{
-padding: 3px;
+padding: .18rem;
 display: block;
 color: hwb(0 100% 0%);
 text-decoration: none;
 text-transform: uppercase;
-font-size: 20px;
-letter-spacing: 3px;
+font-size: 1.25rem;
+letter-spacing: .18rem;
 }
 
 .header__nav a:hover{
@@ -47,13 +47,13 @@ background-color: hsl(0, 0%, 0%);
 
 }
 .cabecalho-content{
-margin: 50 px auto;
+margin: 3.125rem auto;
 width: 80%;
 text-align: center;
 }
 
 .cabecalho-content h1{
-font-size: 40px;
+font-size: 2.5rem;
 text-transform: uppercase;
 text-align: center;
 }
@@ -65,42 +65,42 @@ text-align: center;
 
 .cabecalho-content p{
   color:#000000;
-  font-size: 10px;
+  font-size: .7rem;
   display: list-item;
-  padding: 16px;
-  border-bottom: 3px solid;
+  padding: 1rem;
+  border-bottom: .19rem solid;
   justify-content: first baseline;
 }
 
 main{
 width: 90%;
 margin: auto;
-min-width: 400px;
-max-width: 800px;
+min-width: 25rem;
+max-width: 50rem;
 }
 
 section{
-  padding-top:30px;
+  padding-top:1.8rem;
 }
 
 article{
-padding: 16px; 
-margin-bottom: 30px;
-margin-top: 30px;
+padding: 1rem; 
+margin-bottom: 1.8rem;
+margin-top: 1.8rem;
 text-align: justify;
 }
 
 article img{
-border-radius: 2px;
+border-radius: .125rem;
 border-color: #012523;
 max-width: 50%;
 max-height:50% 
 }
 
 article h2{
-border-bottom: 3px solid hsl(180, 100%, 94%);
+border-bottom: .125rem solid hsl(180, 100%, 94%);
 background-color: hsl(160, 100%, 75%);
-padding: 10px; 
+padding: .625rem; 
 margin-top: 0;
 }
 
@@ -108,8 +108,8 @@ a.btn{
 background-color: hsl(0, 0%, 100%);
 color: black;  
 display: block;
-padding: 10px 12px;
-border-radius: 5px;
+padding: .625rem .75rem;
+border-radius: .32rem;
 margin-left: auto;
 width: fit-content;
 
@@ -133,10 +133,10 @@ textarea{
 
 form{
 width: 90%;
-min-width: 28.125em;
-max-width: 35em;
+min-width: 28.125rem;
+max-width: 35rem;
 background-color: hwb(180 5% 94%);
-padding: 1em;
+padding: 1rem;
 }
 
 fieldset{
@@ -156,10 +156,10 @@ input, textarea{
     background-color: rgba(red, green, blue, alpha);
     border: 2px solid transparent;
     border-bottom: hsl(0, 0%, 83%);
-    padding: .65em;
-    margin: .5em 0 2.5em ;
+    padding: .65rem;
+    margin: .5rem 0 2.5em ;
     color: #ffffff;
-    outline:.3em;
+    outline:.3rem;
 }
 input :focus, textarea focus{
 background-color: #ffffff;
@@ -167,16 +167,16 @@ color: #000000;
 }
 
 legend{
-padding: .5em;
+padding: .5rem;
 text-align: center;
 font-weight: bold;
 color: #8e999a;
-font-size: 1.3em;
+font-size: 1.3rem;
 }
 .btn{
 background-color: hsl(0, 4%, 16%);
 color: black;
 cursor: pointer;
-font-size: .7em;
+font-size: .7rem;
 border: radius;
 }
